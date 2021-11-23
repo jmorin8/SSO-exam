@@ -1,1 +1,2 @@
 # SSO-exam
+Practical exam
